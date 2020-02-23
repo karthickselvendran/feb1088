@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/feb1088/static/css/main.17711bfa.chunk.css",
-    "main.js": "/feb1088/static/js/main.37e6fc0e.chunk.js",
-    "main.js.map": "/feb1088/static/js/main.37e6fc0e.chunk.js.map",
-    "runtime-main.js": "/feb1088/static/js/runtime-main.392e0d8a.js",
-    "runtime-main.js.map": "/feb1088/static/js/runtime-main.392e0d8a.js.map",
-    "static/js/2.1b745926.chunk.js": "/feb1088/static/js/2.1b745926.chunk.js",
-    "static/js/2.1b745926.chunk.js.map": "/feb1088/static/js/2.1b745926.chunk.js.map",
-    "index.html": "/feb1088/index.html",
-    "precache-manifest.9e3dc04a93d3ea155d8d1e70ce9f47e3.js": "/feb1088/precache-manifest.9e3dc04a93d3ea155d8d1e70ce9f47e3.js",
-    "service-worker.js": "/feb1088/service-worker.js",
-    "static/css/main.17711bfa.chunk.css.map": "/feb1088/static/css/main.17711bfa.chunk.css.map",
-    "static/js/2.1b745926.chunk.js.LICENSE": "/feb1088/static/js/2.1b745926.chunk.js.LICENSE",
-    "static/media/song.mp3": "/feb1088/static/media/song.60d8aba6.mp3"
+    "main.css": "/birthdaywish/static/css/main.17711bfa.chunk.css",
+    "main.js": "/birthdaywish/static/js/main.1bdd0c4f.chunk.js",
+    "main.js.map": "/birthdaywish/static/js/main.1bdd0c4f.chunk.js.map",
+    "runtime-main.js": "/birthdaywish/static/js/runtime-main.0c67c6e6.js",
+    "runtime-main.js.map": "/birthdaywish/static/js/runtime-main.0c67c6e6.js.map",
+    "static/js/2.7640e1ce.chunk.js": "/birthdaywish/static/js/2.7640e1ce.chunk.js",
+    "static/js/2.7640e1ce.chunk.js.map": "/birthdaywish/static/js/2.7640e1ce.chunk.js.map",
+    "index.html": "/birthdaywish/index.html",
+    "precache-manifest.463d0ffa24561dd67d89692981a80dd8.js": "/birthdaywish/precache-manifest.463d0ffa24561dd67d89692981a80dd8.js",
+    "service-worker.js": "/birthdaywish/service-worker.js",
+    "static/css/main.17711bfa.chunk.css.map": "/birthdaywish/static/css/main.17711bfa.chunk.css.map",
+    "static/js/2.7640e1ce.chunk.js.LICENSE": "/birthdaywish/static/js/2.7640e1ce.chunk.js.LICENSE",
+    "static/media/song.mp3": "/birthdaywish/static/media/song.60d8aba6.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.392e0d8a.js",
-    "static/js/2.1b745926.chunk.js",
+    "static/js/runtime-main.0c67c6e6.js",
+    "static/js/2.7640e1ce.chunk.js",
     "static/css/main.17711bfa.chunk.css",
-    "static/js/main.37e6fc0e.chunk.js"
+    "static/js/main.1bdd0c4f.chunk.js"
   ]
 }
